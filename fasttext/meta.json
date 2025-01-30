@@ -1,0 +1,31 @@
+{
+  "lang":"fa",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.4,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"85cc763",
+  "vectors":{
+    "width":300,
+    "vectors":2000000,
+    "keys":2000000,
+    "name":"fa_pipeline.vectors",
+    "mode":"default"
+  },
+  "labels":{
+
+  },
+  "pipeline":[
+
+  ],
+  "components":[
+
+  ],
+  "disabled":[
+
+  ]
+}

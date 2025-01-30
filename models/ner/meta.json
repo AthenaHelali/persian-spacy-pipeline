@@ -1,0 +1,44 @@
+{
+  "lang":"fa",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.4,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"85cc763",
+  "vectors":{
+    "width":300,
+    "vectors":2113837,
+    "keys":2000000,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "ner":[
+      "B-FAC",
+      "B-GPE",
+      "B-LOC",
+      "B-ORG",
+      "B-PER",
+      "B-TITLE",
+      "I-FAC",
+      "I-GPE",
+      "I-LOC",
+      "I-ORG",
+      "I-PER",
+      "I-TITLE"
+    ]
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "components":[
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}

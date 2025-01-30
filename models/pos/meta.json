@@ -1,0 +1,47 @@
+{
+  "lang":"fa",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.8.4,<3.9.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"85cc763",
+  "vectors":{
+    "width":300,
+    "vectors":2113837,
+    "keys":2000000,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tagger":[
+      "ADP",
+      "INTJ",
+      "PART",
+      "CCONJ",
+      "NOUN",
+      "SCONJ",
+      "VERB",
+      "ADJ",
+      "PUNCT",
+      "PRON",
+      "DET",
+      "NUM",
+      "X",
+      "ADV",
+      "AUX"
+    ]
+  },
+  "pipeline":[
+    "tagger"
+  ],
+  "components":[
+    "tagger"
+  ],
+  "disabled":[
+
+  ]
+}

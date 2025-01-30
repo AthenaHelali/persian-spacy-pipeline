@@ -1,0 +1,5 @@
+vocab/
+*.vocab
+*.lexem
+*.vec
+*.zip
